@@ -43,10 +43,10 @@ This repository contains a demo application showcasing the integration of Azure 
 Run the Streamlit app:
 ```sh
 streamlit run app.py
+```
 
-
-**## About Me**
-I am a passionate software developer with experience in building applications using AI and machine learning technologies. This demo project is part of my efforts to explore the capabilities of Azure OpenAI and LangChain for advanced NLP tasks. Feel free to reach out to me on LinkedIn or Twitter.
+## About Me
+I am a passionate Data Engineer with experience in building applications using AI and machine learning technologies. This demo project is part of my efforts to explore the capabilities of Azure OpenAI and LangChain for advanced NLP tasks. Feel free to reach out to me on LinkedIn.
 
 ## Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.**
+Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
